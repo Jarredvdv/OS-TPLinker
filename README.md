@@ -1,5 +1,5 @@
 # TPLinker
-Java implementation of a two pass linker for Operating Systems
+🔗 Two pass linker that resolves addresses and maps address tables for Operating Systems
 
 How to run on command line:
 
